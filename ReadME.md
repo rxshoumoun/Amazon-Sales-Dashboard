@@ -18,7 +18,7 @@ This report focuses on Amazon store sales, helping users understand sales trends
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/rxshoumoun/Amazon-Sales-Dashboard.git
     ```
 2. **Open the Power BI file:**
     - Locate the `Amazon Sales Analysis.pbix` file in the project directory.
